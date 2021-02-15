@@ -1,0 +1,26 @@
+html {
+  height: 100vh;
+}
+body {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+#settings {
+  margin: 30px 0;
+}
+input {
+    border: 2px solid #000;
+    padding: 5px;
+    border-radius: 3px;
+}
+button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 7px;
+    border-radius: 3px;    
+}
